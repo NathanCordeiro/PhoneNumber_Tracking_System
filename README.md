@@ -17,6 +17,9 @@ It uses a JSON file containing country codes to perform the lookup.
 ## Usage
 - Make sure you have the `country_codes.json` file in the same directory as your script.
 - Run the script, and the GUI window will appear.
+  ```sh
+   python PhoneNumber_Track.py
+   ```
 - Enter a phone number and click `“Check”` to see the associated country.
 
 ## Dependencies
